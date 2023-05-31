@@ -1,1 +1,2 @@
 # odin-recipes1
+This project will be a website with multiple pages containing different recipes. Skills demonstrated via the creation of this project include proficiency with git and github, as well as html. 
